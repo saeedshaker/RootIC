@@ -1,5 +1,5 @@
 # RootIC
-Root Insurance Challenge
+Root Auto Insurance
 
 Acme Insurance Company sells auto insurance directly to consumers via Vertical Search websites. On these websites, consumers who are already shopping for auto insurance enter some information about themselves and then are shown ads from insurance companies. Each ad shown is called an "impression" and each record in this table represents one ad impression.
 
